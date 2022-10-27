@@ -30,6 +30,6 @@ export default [
 		endDate: "July 24 2018",
 		description:
 			"Waterside path surrounded by skyscrapers, with a nightly light show & the striking Helix footbridge.",
-		imageUrl: "/src/assets/singapore.jpg",
+		imageUrl: "/singapore.jpg",
 	},
 ];
