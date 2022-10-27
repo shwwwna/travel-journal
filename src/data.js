@@ -1,5 +1,3 @@
-import france from "./assets/france.jpg";
-
 export default [
 	{
 		id: 1,
@@ -10,7 +8,7 @@ export default [
 		endDate: "Jun 14 2015",
 		description:
 			'The Dongdaemun Design Plaza, abbreviated as DDP, is a major urban development landmark with a distinctively neofuturistic design characterized by the "powerful, curving forms of elongated structures". ',
-		imageUrl: "/src/assets/korea.jpg",
+		imageUrl: "/korea.jpg",
 	},
 	{
 		id: 2,
@@ -21,7 +19,7 @@ export default [
 		endDate: "Sep 27 2017",
 		description:
 			"The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
-		imageUrl: { france },
+		imageUrl: "/france.jpg",
 	},
 	{
 		id: 3,
